@@ -16,6 +16,12 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
+/* main color #b90160 */
+/* iconos #b90160 */
+body {
+  background: #fff6f9;
+  /* background: #ffe3f1; */
+}
 
 /*
  * Remove text-shadow in selection highlight:
